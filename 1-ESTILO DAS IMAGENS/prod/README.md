@@ -1,1 +1,1 @@
-Projeto de alteração de tamanho e cor de imagem
+Projeto de alteração de tamanho, cor de imagem e inserção de marca d'água.
